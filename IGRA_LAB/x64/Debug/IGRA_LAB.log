@@ -1,0 +1,5 @@
+﻿  IGRA_LAB.cpp
+C:\Users\brian\Documents\IGRA_LAB\IGRA_LAB\IGRA_LAB.h(49,26): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\Documents\IGRA_LAB\IGRA_LAB\IGRA_LAB.cpp(68,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\brian\Documents\IGRA_LAB\IGRA_LAB\IGRA_LAB.cpp(75,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  IGRA_LAB.vcxproj -> C:\Users\brian\Documents\IGRA_LAB\x64\Debug\IGRA_LAB.exe
